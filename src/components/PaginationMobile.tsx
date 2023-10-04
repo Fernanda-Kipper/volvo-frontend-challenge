@@ -1,4 +1,4 @@
-import styles from '../../public/css/components/PaginationMobile.module.css'
+import styles from '../../public/css/components/paginationMobile.module.css'
 
 interface PaginationMobileProps {
     total: number,
