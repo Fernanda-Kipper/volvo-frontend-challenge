@@ -23,3 +23,9 @@
     border-radius: 100%;
     background-color: #3c3c3c;
 }
+
+@media (min-width: 600px) {
+    .btnWrapper {
+        display: none;
+    }
+}
